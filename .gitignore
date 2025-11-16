@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Eclipse
+*.launch
+.settings/
+.metadata
+.classpath
+.project
+eclipse/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+eclipse/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Minecraft
+run/
+logs/
+
+# Files from Forge MDK
+forge*changelog.txt
